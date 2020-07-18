@@ -1,0 +1,13 @@
+URI : 
+https://reqres.in/api/users/2
+
+Parameters : 
+{}
+
+Path Parameters : 
+{id=2}
+
+Request Body : 
+{}
+
+Response : 

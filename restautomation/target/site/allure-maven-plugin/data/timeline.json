@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "VISHWAV-W10DT",
+    "children" : [ {
+      "name" : "10784@VISHWAV-W10DT.main(1)",
+      "children" : [ {
+        "name" : "Verify Searching Users in Page 2",
+        "uid" : "6eee901ae6482206",
+        "parentUid" : "92005391e541052f0e4d19513b84c656",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1594348250699,
+          "stop" : 1594348250704,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Deleting User",
+        "uid" : "45f5c36091693482",
+        "parentUid" : "92005391e541052f0e4d19513b84c656",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594348246844,
+          "stop" : 1594348249242,
+          "duration" : 2398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Searching All Users",
+        "uid" : "5ddb751f9f53179d",
+        "parentUid" : "92005391e541052f0e4d19513b84c656",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594348249473,
+          "stop" : 1594348250672,
+          "duration" : 1199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Searching Users by ID",
+        "uid" : "3febc418b5923cdc",
+        "parentUid" : "92005391e541052f0e4d19513b84c656",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594348250714,
+          "stop" : 1594348251180,
+          "duration" : 466
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Creating Users",
+        "uid" : "a19759d231c9a73c",
+        "parentUid" : "92005391e541052f0e4d19513b84c656",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594348251186,
+          "stop" : 1594348251862,
+          "duration" : 676
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Updating Users",
+        "uid" : "6d7eea0ecd39cd04",
+        "parentUid" : "92005391e541052f0e4d19513b84c656",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594348251874,
+          "stop" : 1594348252175,
+          "duration" : 301
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92005391e541052f0e4d19513b84c656"
+    } ],
+    "uid" : "193c157ce92421bd62776687bb0ee56e"
+  } ]
+}

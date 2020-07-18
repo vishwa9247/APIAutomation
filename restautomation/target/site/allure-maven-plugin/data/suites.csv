@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 10 08:00:49 IST 2020","Fri Jul 10 08:00:50 IST 2020","1199","","Search Users using GET Request","","Verify Searching All Users","","Verify Searching All Users",""
+"passed","Fri Jul 10 08:00:50 IST 2020","Fri Jul 10 08:00:51 IST 2020","466","","Search Users using GET Request","","Verify Searching Users by ID","","Verify Searching Users by ID",""
+"passed","Fri Jul 10 08:00:46 IST 2020","Fri Jul 10 08:00:49 IST 2020","2398","","Delete Users using DELETE Request","","Verify Deleting User","","Verify Deleting User",""
+"passed","Fri Jul 10 08:00:51 IST 2020","Fri Jul 10 08:00:51 IST 2020","676","","Create Users using POST Request","","Verify Creating Users","","Verify Creating Users",""
+"skipped","Fri Jul 10 08:00:50 IST 2020","Fri Jul 10 08:00:50 IST 2020","5","","Search Users using GET Request","","Verify Searching Users in Page 2","","Verify Searching Users in Page 2",""
+"passed","Fri Jul 10 08:00:51 IST 2020","Fri Jul 10 08:00:52 IST 2020","301","","Updating Users using PUT Request","","Verify Updating Users","","Verify Updating Users",""

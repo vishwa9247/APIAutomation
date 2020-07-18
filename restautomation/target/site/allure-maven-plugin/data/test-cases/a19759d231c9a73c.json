@@ -1,0 +1,171 @@
+{
+  "uid" : "a19759d231c9a73c",
+  "name" : "Verify Creating Users",
+  "fullName" : "Create Users using POST Request: Verify Creating Users",
+  "historyId" : "f775a0b8474e8d566a66f7a65ad01df5",
+  "time" : {
+    "start" : 1594348251186,
+    "stop" : 1594348251862,
+    "duration" : 676
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  I want to create a user with name \"Tom\" AND job \"QA\"",
+      "time" : {
+        "start" : 1594348251186,
+        "stop" : 1594348251192,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When  I click create user",
+      "time" : {
+        "start" : 1594348251192,
+        "stop" : 1594348251804,
+        "duration" : 612
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  I should get a successful response with status code 201",
+      "time" : {
+        "start" : 1594348251804,
+        "stop" : 1594348251806,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "afa6eed442fb2912",
+        "name" : "Request and Response",
+        "source" : "afa6eed442fb2912.txt",
+        "type" : "text/plain",
+        "size" : 232
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "And  new user should have an id",
+      "time" : {
+        "start" : 1594348251806,
+        "stop" : 1594348251814,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  user name should be \"Tom\" AND job should be \"QA\"",
+      "time" : {
+        "start" : 1594348251815,
+        "stop" : 1594348251834,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And  created date should be \"today\"",
+      "time" : {
+        "start" : 1594348251835,
+        "stop" : 1594348251862,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "POSTScenario1"
+  }, {
+    "name" : "host",
+    "value" : "VISHWAV-W10DT"
+  }, {
+    "name" : "thread",
+    "value" : "10784@VISHWAV-W10DT.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Create Users using POST Request"
+  }, {
+    "name" : "story",
+    "value" : "Verify Creating Users"
+  }, {
+    "name" : "package",
+    "value" : "src.main.resources.post.Create Users using POST Request"
+  }, {
+    "name" : "suite",
+    "value" : "Create Users using POST Request"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Creating Users"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/main/resources/post/CreateUsers.feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "POSTScenario1" ]
+  },
+  "source" : "a19759d231c9a73c.json",
+  "parameterValues" : [ ]
+}

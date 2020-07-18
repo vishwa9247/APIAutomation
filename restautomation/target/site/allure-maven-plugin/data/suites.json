@@ -1,0 +1,99 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Delete Users using DELETE Request",
+    "children" : [ {
+      "name" : "Verify Deleting User",
+      "uid" : "45f5c36091693482",
+      "parentUid" : "3efbb8cded7891faf25b4ea068b36b2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594348246844,
+        "stop" : 1594348249242,
+        "duration" : 2398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3efbb8cded7891faf25b4ea068b36b2a"
+  }, {
+    "name" : "Search Users using GET Request",
+    "children" : [ {
+      "name" : "Verify Searching All Users",
+      "uid" : "5ddb751f9f53179d",
+      "parentUid" : "b09acb32f28c88bcacbea0a1db077290",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594348249473,
+        "stop" : 1594348250672,
+        "duration" : 1199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Searching Users in Page 2",
+      "uid" : "6eee901ae6482206",
+      "parentUid" : "b09acb32f28c88bcacbea0a1db077290",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1594348250699,
+        "stop" : 1594348250704,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify Searching Users by ID",
+      "uid" : "3febc418b5923cdc",
+      "parentUid" : "b09acb32f28c88bcacbea0a1db077290",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594348250714,
+        "stop" : 1594348251180,
+        "duration" : 466
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b09acb32f28c88bcacbea0a1db077290"
+  }, {
+    "name" : "Create Users using POST Request",
+    "children" : [ {
+      "name" : "Verify Creating Users",
+      "uid" : "a19759d231c9a73c",
+      "parentUid" : "664e0b396e590935d560014e81104f81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594348251186,
+        "stop" : 1594348251862,
+        "duration" : 676
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "664e0b396e590935d560014e81104f81"
+  }, {
+    "name" : "Updating Users using PUT Request",
+    "children" : [ {
+      "name" : "Verify Updating Users",
+      "uid" : "6d7eea0ecd39cd04",
+      "parentUid" : "e97bedcc6b4515e40aeec0f13f99b926",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594348251874,
+        "stop" : 1594348252175,
+        "duration" : 301
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e97bedcc6b4515e40aeec0f13f99b926"
+  } ]
+}

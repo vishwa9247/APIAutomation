@@ -1,0 +1,61 @@
+[ {
+  "uid" : "5ddb751f9f53179d",
+  "name" : "Verify Searching All Users",
+  "time" : {
+    "start" : 1594348249473,
+    "stop" : 1594348250672,
+    "duration" : 1199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3febc418b5923cdc",
+  "name" : "Verify Searching Users by ID",
+  "time" : {
+    "start" : 1594348250714,
+    "stop" : 1594348251180,
+    "duration" : 466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45f5c36091693482",
+  "name" : "Verify Deleting User",
+  "time" : {
+    "start" : 1594348246844,
+    "stop" : 1594348249242,
+    "duration" : 2398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a19759d231c9a73c",
+  "name" : "Verify Creating Users",
+  "time" : {
+    "start" : 1594348251186,
+    "stop" : 1594348251862,
+    "duration" : 676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6eee901ae6482206",
+  "name" : "Verify Searching Users in Page 2",
+  "time" : {
+    "start" : 1594348250699,
+    "stop" : 1594348250704,
+    "duration" : 5
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6d7eea0ecd39cd04",
+  "name" : "Verify Updating Users",
+  "time" : {
+    "start" : 1594348251874,
+    "stop" : 1594348252175,
+    "duration" : 301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

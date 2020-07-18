@@ -1,0 +1,7 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Search Users using GET Request","Verify Searching All Users","0","0","1","0","0"
+"","Search Users using GET Request","Verify Searching Users by ID","0","0","1","0","0"
+"","Delete Users using DELETE Request","Verify Deleting User","0","0","1","0","0"
+"","Create Users using POST Request","Verify Creating Users","0","0","1","0","0"
+"","Search Users using GET Request","Verify Searching Users in Page 2","0","0","0","1","0"
+"","Updating Users using PUT Request","Verify Updating Users","0","0","1","0","0"
